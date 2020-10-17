@@ -1,0 +1,4 @@
+framework module CFSDK {
+  header "CFSDK-Swift.h"
+  requires objc
+}

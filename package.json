@@ -1,0 +1,46 @@
+{
+  "_from": "react-native-pg-react-native-sdk@^1.0.9",
+  "_id": "react-native-pg-react-native-sdk@1.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-LexJ53zToMb5Yzs8gwtjoOVbzJNcv80659WLOaNM2PBFaKjRNujpGH3rDmngPehuUJTn/pJT4brpVRIC6+4EPQ==",
+  "_location": "/react-native-pg-react-native-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-pg-react-native-sdk@^1.0.9",
+    "name": "react-native-pg-react-native-sdk",
+    "escapedName": "react-native-pg-react-native-sdk",
+    "rawSpec": "^1.0.9",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.9"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-pg-react-native-sdk/-/react-native-pg-react-native-sdk-1.0.9.tgz",
+  "_shasum": "487de7615ed4e76c9d4df5eea5c84197ea771feb",
+  "_spec": "react-native-pg-react-native-sdk@^1.0.9",
+  "_where": "D:\\Projects\\Yaylo\\localchachaclient",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Getting started",
+  "devDependencies": {
+    "react-native": "0.41.2"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "license": "",
+  "main": "index.js",
+  "name": "react-native-pg-react-native-sdk",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.9"
+}
